@@ -19,7 +19,7 @@ During my first week at Grant Thornton (GT), I spent most of my time getting set
 
 ### What I learned each day:
 
-- Monday (6/10): I learned about the GT culture and why CLEARR (Collaboration, Leadership, Excellence, Agility, Respect & Responsibility) play such a big role in everything they do here. I also learned how my contributions this summer will help to the overall goals of my team. Lastly, I learned that asking questions and utilizing those around me will be the most helpful thing I do this Summer, especially as I go forward in my career.
+- Monday (6/10): I learned about the GT culture and why CLEARR (Collaboration, Leadership, Excellence, Agility, Respect & Responsibility) plays such a big role in everything they do here. I also learned how my contributions this summer will help the overall goals of my team. Lastly, I learned that asking questions and utilizing those around me will be the most valuable thing I do this Summer, especially as I go forward in my career.
 
 - Tuesday (6/11):
 
