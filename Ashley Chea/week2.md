@@ -10,7 +10,7 @@ During my second week at Grant Thornton (GT), Here's what I accomplished each da
 - Tuesday (6/18):
 
 
-- Wednesday (6/19): OFF (JUNETEENTH)
+- Wednesday (6/19): ***OFF (JUNETEENTH)***
 
 
 - Thursday (6/20):
@@ -26,7 +26,7 @@ During my second week at Grant Thornton (GT), Here's what I accomplished each da
 - Tuesday (6/18):
 
 
-- Wednesday (6/19): OFF (JUNETEENTH)
+- Wednesday (6/19): ***OFF (JUNETEENTH)***
 
 
 - Thursday (6/20):
