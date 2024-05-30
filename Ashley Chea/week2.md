@@ -51,6 +51,7 @@ Some of the challenges I faced were:
 
 ### Improvements
 
-Moving forward into Week 3,
-
 - 
+
+Moving forward into Week 3, I plan on taking the time to review everything I've learned the last two weeks, work alongside senior associates and see where I can collaborate the most individually.
+
