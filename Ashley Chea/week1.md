@@ -1,6 +1,6 @@
-## Week 1: June 10 - June 14
+# Week 1: June 10 - June 14
 
-### What I worked on each day
+## What I worked on each day
 
 During my first week at Grant Thornton (GT), I spent most of my time getting set up, getting to know my team and familiarizing myself with the tools and technologies I'll be using during my internship. Here's what I accomplished each day:
 
@@ -17,7 +17,7 @@ During my first week at Grant Thornton (GT), I spent most of my time getting set
 
 - Friday (6/14):
 
-### What I learned each day:
+## What I learned each day:
 
 - Monday (6/10): I learned about the GT culture and why CLEARR (Collaboration, Leadership, Excellence, Agility, Respect & Responsibility) plays such a big role in everything they do here. I also learned how my contributions this summer will help the overall goals of my team. Lastly, I learned that asking questions and utilizing those around me will be the most valuable thing I do this Summer, especially as I go forward in my career.
 
@@ -33,21 +33,21 @@ During my first week at Grant Thornton (GT), I spent most of my time getting set
 - Friday (6/14):
 
 
-### Challenges I faced
+## Challenges I faced
 
 Some of the challenges I faced were:
 
 -
 
-### How I overcame them
+## How I overcame them
 
 -
 
-### Feedback I received
+## Feedback I received
 
 -
 
-### Improvements
+## Improvements
 
 Moving forward into Week 2,
 
