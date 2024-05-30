@@ -6,7 +6,7 @@ Welcome to my internship progress tracker for Grant Thornton, LLP (US) in Dallas
 
 <!-- Write a brief introduction about yourself that includes your name, where you're from, your educational background, and any relevant experiences or interests you have that led you to pursue this internship. Additionally, please share what you hope to gain from this internship and how you plan to contribute to the team. -->
 
-Hey there, my name is Ashley Chea (Ash for short) & I am a 2nd year Cybersecurity graduate student at Kennesaw State University projected to graduate December 2024. I am passionate about creating solutions that people implement daily, solutions that eases lives, and one that causes an impact. I love researching, collaborting with experienced professionals within the , and expanding my skills-set daily.
+Hey there, my name is Ashley Chea (Ash for short) & I am a 2nd year Cybersecurity graduate student at Kennesaw State University projected to graduate December 2024. I am passionate about creating solutions that people implement daily, solutions that eases lives, and one that causes an impact. I love researching, collaborting with experienced professionals, and expanding my skills-set daily.
 
 Before starting my internship, I worked as a Full-Stack Software Engineer for one of the world's largest banks.
 Throughout my journey, as much as I have gathered some experience in the mentioned field, I continually seek to improve my skills and become a better Cybersecurity professional by the day.
