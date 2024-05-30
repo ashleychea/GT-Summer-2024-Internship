@@ -1,6 +1,6 @@
 ## Week 1: June 10 - June 14
 
-*** What I worked on each day ***
+*** *** What I worked on each day 
 
 During my first week at Grant Thornton (GT), I spent most of my time getting set up, getting to know my team and familiarizing myself with the tools and technologies I'll be using during my internship. Here's what I accomplished each day:
 
