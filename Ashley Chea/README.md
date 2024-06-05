@@ -1,12 +1,12 @@
 # Summer 2024 Internship Progress Tracker - Ashley Chea
 
-Welcome to my internship progress tracker for Grant Thornton Advisors LLC (formerly merged with Grant Thornton LLP that handles all public accountancy practices); Grant Thornton Advisors LLC will handle the business side of GT (advisory, tax, and other non-attestation services) here in the triple D, Dallas, Texas! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
+Welcome to my internship progress tracker for Grant Thornton Advisors LLC (formerly merged with Grant Thornton LLP that handles all public accountancy practices); Grant Thornton Advisors LLC will handle the business side of GT (advisory, tax, and other non-attestation services) here in the triple D - Dallas, Texas! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
 
 ## About Me
 
 <!-- Write a brief introduction about yourself that includes your name, where you're from, your educational background, and any relevant experiences or interests you have that led you to pursue this internship. Additionally, please share what you hope to gain from this internship and how you plan to contribute to the team. -->
 
-Hello, my name is Ashley Chea (Ash for short) & I am a 2nd year Cybersecurity graduate student at Kennesaw State University projected to graduate December 2024. I am passionate about creating solutions that people implement daily, solutions that eases lives, and one that causes an impact. I love researching, collaborting with experienced professionals, and expanding my skills-set daily.
+Hello, my name is Ashley Chea (Ash for short) & I am a 2nd year Cybersecurity graduate student at Kennesaw State University projected to graduate December 2024. I am passionate about creating solutions that people implement daily, solutions that eases lives, and one that causes an impact. I love researching, collaborting with experienced professionals, and expanding my skills-set daily. Outside of work and academics I'm a huge sports fan (Go Braves! Fly Eagles Fly!), I enjoy fashion, I love being outdors & when I cook I think I'm on Iron Chef America. 
 
 Before starting my internship, I worked as a Full-Stack Software Engineer for one of the world's largest banks.
 Throughout my journey, as much as I have gathered some experience in the mentioned field, I continually seek to improve my skills and become a better Cybersecurity professional by the day.
