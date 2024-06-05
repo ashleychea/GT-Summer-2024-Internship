@@ -1,6 +1,6 @@
 # Summer 2024 Internship Progress Tracker - Ashley Chea
 
-Welcome to my internship progress tracker for Grant Thornton, LLP (US) in Dallas, Texas! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
+Welcome to my internship progress tracker for Grant Thornton, LLP (US) which is now Grant Thornton Advisors, LLC for all the non-accounting work that GT does here in Dallas, Texas! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
 
 ## About Me
 
