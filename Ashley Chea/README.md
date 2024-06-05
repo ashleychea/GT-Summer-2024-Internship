@@ -1,6 +1,6 @@
 # Summer 2024 Internship Progress Tracker - Ashley Chea
 
-Welcome to my internship progress tracker for Grant Thornton, LLP (US) which is now Grant Thornton Advisors, LLC for all the non-accounting work that GT does here in Dallas, Texas! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
+Welcome to my internship progress tracker for Grant Thornton Advisors LLC (formerly merged with Grant Thornton LLP that handles all public accountancy practices); Grant Thornton Advisors LLC will handle the business side of GT (advisory, tax, and other non-attestation services) here in the triple D, Dallas, Texas! In this repository, you'll find updates on what I'm working on each week, what I've learned, and any challenges I'm facing, and how I overcame those I could.
 
 ## About Me
 
@@ -11,7 +11,7 @@ Hello, my name is Ashley Chea (Ash for short) & I am a 2nd year Cybersecurity gr
 Before starting my internship, I worked as a Full-Stack Software Engineer for one of the world's largest banks.
 Throughout my journey, as much as I have gathered some experience in the mentioned field, I continually seek to improve my skills and become a better Cybersecurity professional by the day.
 
-I am currently an intern at Grant Thornton, LLP (US) in Dallas, Texas and one of the reasons I got interested in pursuing an internship there is because they have a culture of **"CLEARR"**; COLLABORATION, LEADERSHIP, EXCELLENCE, AGILITY, RESPECT, RESPONSBILITY, I was also interested in the organization cause of how they carry out their operations, plan & structure to their clients. Working here will be an adjustment given that I've never worked in Cybersecurity or Data Privacy before, but I had to leave my comfort zone, follow my passion and grow, so here I am, embracing every change like a capterpillar turning into a butterfly 🦋.
+I am currently an intern at Grant Thornton Advisors LLC in Dallas, Texas and one of the reasons I got interested in pursuing an internship there is because they have a culture of **"CLEARR"**; COLLABORATION, LEADERSHIP, EXCELLENCE, AGILITY, RESPECT, RESPONSBILITY, which I resonated with really well. I was also interested in the organization because of how they carry out their operations, plan & structure to their clients. Working here will be an adjustment given that I've never worked in Cybersecurity or Data Privacy before, but I had to leave my comfort zone, follow my passion and grow, so here I am, embracing every change like a capterpillar turning into a butterfly 🦋.
 
 I am confident that during the internship, I'll learn how to plan and execute great solutions, various industry standards (Global and Local), methodologies, and implementations, collaborate with larger teams, improve on technical, soft, and interpersonal skills, and so much more. In summary, I will be "presentation-ready."
 
