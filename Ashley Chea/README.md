@@ -32,3 +32,4 @@ I am delighted to be part of the team; looking forward to a great experience her
 - [Week 6: July 15 - July 19](./week6.md)
 - [Week 7: July 22 - July 26](./week7.md)
 - [Week 8: July 29 - August 2](./week8.md)
+- [Final Summary & Recap](./recap.md)
