@@ -4,7 +4,7 @@
 
 During my first week at Grant Thornton (GT), I spent most of my time getting set up, getting to know my team and familiarizing myself with the tools and technologies I'll be using during my internship. Here's what I accomplished each day:
 
-- Monday (6/10): Got my laptop, set up my login credentials, spent the day in orientation, got lunch to get to know my team and other interns better, ended the day with a social event for all the Summer 2024 interns.
+- Monday (6/10): Got my laptop, set up my login credentials, spent the day in orientation, got lunch & go to know my other interns more, ended the day with a trivia game for all the Summer 2024 interns. 
 
 - Tuesday (6/11):
 
@@ -19,7 +19,7 @@ During my first week at Grant Thornton (GT), I spent most of my time getting set
 
 ### What I learned each day:
 
-- Monday (6/10): I learned about the GT culture and why CLEARR (Collaboration, Leadership, Excellence, Agility, Respect & Responsibility) plays such a big role in everything they do here. I also learned how my contributions this summer will help the overall goals of my team. Lastly, I learned that asking questions and utilizing those around me will be the most valuable thing I do this Summer, especially as I go forward in my career.
+- Monday (6/10): I learned about the GT culture and why CLEARR (Collaboration, Leadership, Excellence, Agility, Respect & Responsibility) plays such a big role in everything they do here. I also learned how my contributions this summer will help the overall goals of my team. I briefly spoke to my manager and set up a lunch with him on Thursday afternoon. I will be meeting the other 8 Cybersecurity & Privacy interns nationwide on Wednesday for us to start our formal training on being Cybersecurity & Privacy Consultants, building our network, learning more about the culutue and getting hands-on deliverable training. Lastly, I learned that asking questions and utilizing those around me will be the most valuable thing I do this Summer, especially as I go forward in my career.
 
 - Tuesday (6/11):
 
