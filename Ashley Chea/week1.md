@@ -18,16 +18,16 @@ During my first week at Grant Thornton (GT), I spent most of my time getting set
 
 - Monday (6/10): I learned about the GT culture and why CLEARR (Collaboration, Leadership, Excellence, Agility, Respect & Responsibility) plays such a big role in everything they do here. I also learned how my contributions this summer will help the overall goals of my team. I briefly spoke to my manager and set up a lunch with him on Thursday afternoon. I will be meeting the other 8 Cybersecurity & Privacy interns nationwide on Wednesday for us to start our formal training on being Cybersecurity & Privacy Consultants, building our network, learning more about the culutue and getting hands-on deliverable training. Lastly, I learned that asking questions and utilizing those around me will be the most valuable thing I do this Summer, especially as I go forward in my career.
 
-- Tuesday (6/11): Day 2 was a bit like day one but just with a bit more details. I was able to learn professionalism at GT with the mindset of "dress for your day" which essentially means dress for success whether you're in the office or on the client site. 
+- Tuesday (6/11): Day 2 was a bit like day one but just with a bit more details. I was able to learn professionalism at GT with the mindset of "dress for your day" which essentially means dress for success whether you're in the office, at home or on the client site. We also had an in office panel with an "Associate, Manager & Senior Manager" from the Audit, Tax & Advisory departments. They were able to answer our questions on culture at GT, how to get involved and making the most out of our 8 weeks. 
 
 
-- Wednesday (6/12):
+- Wednesday (6/12): After 2 days of national training, I was finally able to get into more Cybersecurity & Privacy focused training. On this day I had 4 meetings: Cybersecurity & Privacy Intern Workshop - Which was just a great overall introduction to Cybersecurity & Privacy at GT with a few icebreakers to get to know the other interns across the nation; Consulting 101 -that taught us about what exactly a consultant in the Cyber & Privacy department does and how it impacts GT overall; Sr. Associate Panel Q&A - This is where we were able to ask specific questions about the work we'd be doing and how to really get the most out of everything; Lastly, we had a Deliverable Training - Which taught us how to start and end a project making sure that we captured every component for our final presentation.
 
 
-- Thursday (6/13):
+- Thursday (6/13): This day was jam packed with meetings were I learned: Privacy 101, Building my network, Security 101, Had my first Cybersecurity & Privacy stand up call, participated in a Cyber Trivia game (my team won), lastly, we did a small group exercise that gave us a little hands-on experience with different case-scenarios that our clients may face. Overall this day was very informative, I took great notes, asked questions, got answers, did training modules and overall just got a better feel for what was required of me. I will say, my favorite part was learning about Privacy. I'm very Cybersecurity focused so seeing another aspect of that was super fun to me. Lastly, we got to participate in our local office's "Juneteenth" celebration that taught us a bit of history on how Juneteenth came to be and the reason it's celebrated. Overall, an amazing day filled with great information from great people.
 
 
-- Friday (6/14):
+- Friday (6/14): Not much was done this day given it was 1/2 day "Summer Friday". I did however review everything I had learned this week and did my assessments needed to verify my understanding of the material learned. I took this day to get familiar with GT and everything I had ahead of me the following 7 weeks. 
 
 
 ### Challenges I faced
