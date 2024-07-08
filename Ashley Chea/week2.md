@@ -23,7 +23,7 @@ During my second week at Grant Thornton (GT), Here's what I accomplished each da
 - Monday (6/17): During my call with my PMD, I learned exactly why I was chosen for the position (not because of my extensive background, but because he knew I could get the job done and he saw the passion I have for Cybersecurity and learning). It was an amazing feeling to say the least because I've put so much into my learning and understanding of Cybersecurity & Privacy and to see it actually pay off is amazing. I was also able to learn more about his background and how he got to the level he did, and gain tips and insiders to really leverage my 8-week journey at GT. Lastly, he told me to ask questions and be open to feedback and to remember that it's not also a bad thing.
 
 
-- Tuesday (6/18):
+- Tuesday (6/18): 
 
 
 - Wednesday (6/19): 
