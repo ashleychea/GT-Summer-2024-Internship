@@ -39,19 +39,19 @@ During my fourth week at Grant Thornton (GT), Here's what I accomplished each da
 
 Some of the challenges I faced were:
 
--
+- Organizing meeting notes
 
 ### How I overcame them
 
--
+- I reached out to my senior associates to see if there was a specific format they wanted me to use to ensure the notes are accurate.
 
 ### Feedback I received
 
--
+- No direct feedback since it was a short week.
 
 ### Improvements
 
-- 
+- There's always room for improvement but I believe I've been doing really well with time management, asking questions and getting my work turned in a timely manner; but again, nothing is ever "done" so the work continues. 
 
-Moving forward into Week 5, 
+Moving forward into Week 5, I'm looking forward to wrapping up the intern project and closing in on items with gaps. 
 
