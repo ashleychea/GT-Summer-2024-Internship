@@ -2,7 +2,7 @@
 
 ### What I worked on each day 
 
-During my second week at Grant Thornton (GT), Here's what I accomplished each day:
+During my sixth week at Grant Thornton (GT), Here's what I accomplished each day:
 
 - Monday (7/15): 
 
