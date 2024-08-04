@@ -4,13 +4,13 @@
 
 During my fourth week at Grant Thornton (GT), Here's what I accomplished each day:
 
-- Monday (7/1): 
+- Monday (7/1): Met with my intern project leaders and had a midpoint check in to guage where we were at. 
 
 
-- Tuesday (7/2):
+- Tuesday (7/2): Had 3 meetings with my client engagement team (1 to have a touchbase about where we were on our client work and if we needed help with anything and the other 2 were actual meetings with the client to introduce new products that would be added to their network to help build out their privacy and compliance sectors). 
 
 
-- Wednesday (7/3): 
+- Wednesday (7/3): Spent this time meeting with my intern project managers & my teammate. We used the 30 minutes that we had for this meeting to talk more about what direction we wanted the meeting to go i
 
 
 - Thursday (7/4): ***4TH OF JULY***
